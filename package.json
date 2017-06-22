@@ -1,0 +1,27 @@
+{
+  "name": "zcyklu.pl",
+  "version": "0.1.0",
+  "description": "zcyklu.pl frontend app",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neu5/zcyklu.pl"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express",
+    "zcyklu"
+  ],
+  "license": "MIT"
+}
